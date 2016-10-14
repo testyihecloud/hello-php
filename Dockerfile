@@ -1,3 +1,3 @@
-FROM ej52/alpine-nginx-php
+FROM index.alauda.cn/waxiangzi/php:alpine
 
 ADD app.php /var/www/index.php
